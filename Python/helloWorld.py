@@ -1,3 +1,3 @@
-print ("Hola Mnndo")
+print ("Hola Mundo")
 
 #Osvaldo Resendiz
