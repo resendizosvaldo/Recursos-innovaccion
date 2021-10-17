@@ -3,6 +3,9 @@ edad = 26
 print (nombre)
 print  (edad)
 nombre = "Juan Lopez"
-edad = 76
-print (nombre)
-print  (edad)
+estatura = 1.76
+print  (edad + estatura)
+print  (edad - estatura)
+print  (edad * estatura)
+print  (edad / estatura)
+print  (edad ** estatura)
