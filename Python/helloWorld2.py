@@ -1,9 +1,9 @@
 nombre = "Osvaldo Resendiz"
-edad = 26
+edad = 2
 print (nombre)
 print  (edad)
 nombre = "Juan Lopez"
-estatura = 1.76
+estatura = 2
 print  (edad + estatura)
 print  (edad - estatura)
 print  (edad * estatura)
